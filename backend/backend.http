@@ -1,0 +1,30 @@
+GET http://localhost:5199/records
+
+### 
+POST http://localhost:5199/records
+Content-Type: application/json
+
+{
+    "name": "New Record",
+    "description": "This is a new record.",
+    "createdAt": "2024-06-01T12:00:00Z",
+    "updatedAt": "2024-06-01T12:00:00Z"
+}
+###
+
+GET http://localhost:5199/records/1
+
+###
+
+PUT http://localhost:5199/records/1
+Content-Type: application/json  
+
+{
+    "name": "Updated Record",
+    "description": "This record has been updated.",
+    "createdAt": "2024-06-01T12:00:00Z",
+    "updatedAt": "2024-06-02T12:00:00Z"
+}
+
+###
+DELETE http://localhost:5199/records/3
