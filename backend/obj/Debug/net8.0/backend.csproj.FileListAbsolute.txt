@@ -26,3 +26,10 @@ C:\Users\HP\Desktop\dotnet\backend\obj\Debug\net8.0\refint\backend.dll
 C:\Users\HP\Desktop\dotnet\backend\obj\Debug\net8.0\backend.pdb
 C:\Users\HP\Desktop\dotnet\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
 C:\Users\HP\Desktop\dotnet\backend\obj\Debug\net8.0\ref\backend.dll
+C:\Users\HP\Desktop\dotnet\backend\obj\Debug\net8.0\backend.sourcelink.json
+C:\Users\HP\Desktop\dotnet\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\dotnet\backend\bin\Debug\net8.0\MinimalApis.Extensions.dll
+C:\Users\HP\Desktop\dotnet\backend\bin\Debug\net8.0\MiniValidation.dll
+C:\Users\HP\Desktop\dotnet\backend\obj\Debug\net8.0\backend.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\dotnet\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\dotnet\backend\obj\Debug\net8.0\backend.csproj.Up2Date
